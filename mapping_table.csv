@@ -1,0 +1,73 @@
+﻿RSI -;RSI Web Only
+RSI LA 1;RSI LA 1
+RSI LA 2;RSI LA 2
+RSI news;RSI Web Only
+RSI Rete Due;RSI Web Only
+RSI RETE DUE;RSI Web Only
+RSI Rete Tre;RSI Web Only
+RSI RETE TRE;RSI Web Only
+RSI RETE UNO;RSI Web Only
+RSI Rete Uno;RSI Web Only
+RSI RSI Event 1;RSI Web Only
+RSI RSI Event 2;RSI Web Only
+RSI RSI Event 3;RSI Web Only
+RSI RSI LA1;RSI LA 1
+RSI RSI LA2;RSI LA 2
+RSI RSI Web;RSI Web Only
+RSI RSI Web Channel;RSI Web Only
+RSI rsi1;RSI Web Only
+RSI rsi2;RSI Web Only
+RSI speciali;RSI Web Only
+RSI sport;RSI Web Only
+RSI web;RSI Web Only
+RSI WEB;RSI Web Only
+RSI Web only;RSI Web Only
+RTR -;SRG Web Only
+RTR Audio-Elemente;SRG Web Only
+RTR RTR;SRG Web Only
+RTR RTR auf SRF 1;SRG Web Only
+RTR RTR auf SRF Info;SRG Web Only
+RTR RTR Webonly;SRG Web Only
+RTR SRF 1;SRG Web Only
+RTR SRF info;SRG Web Only
+RTR SRF zwei;SRG Web Only
+RTR srf1;SRG Web Only
+RTR srf2;SRG Web Only
+RTR Web Only;SRG Web Only
+RTR Webexklusiv;SRG Web Only
+RTS -;RTS Web Only
+RTS Couleur 3;RTS Web Only
+RTS Espace 2;RTS Web Only
+RTS ghostery;RTS Web Only
+RTS La 1ere;RTS Web Only
+RTS Option Musique;RTS Web Only
+RTS RTS Deux;RTS Deux
+RTS RTS Deux en direct;RTS Deux
+RTS RTS Info;RTS Info
+RTS RTS Un;RTS Un
+RTS RTS Un en direct;RTS Un
+RTS rts1;RTS Un
+RTS rts2;RTS Deux
+RTS undefined;RTS Web Only
+RTS Web only;RTS Web Only
+SRF -;SRF Web Only
+SRF cliqz.com/tracking;SRF Web Only
+SRF ghostery;SRF Web Only
+SRF Radio SRF 1;SRF Web Only
+SRF Radio SRF 2 Kultur;SRF Web Only
+SRF Radio SRF 3;SRF Web Only
+SRF Radio SRF 4 News;SRF Web Only
+SRF Radio SRF Musikwelle;SRF Web Only
+SRF SRF 1;SRF 1
+SRF SRF info;SRF Info
+SRF SRF zwei;SRF 2
+SRF srf1;SRF 1
+SRF srf2;SRF 2
+SRF srfinfo;SRF Info
+SRF Web only;SRF Web Only
+SRF Web Only;SRF Web Only
+SRF Webexklusiv;SRF Web Only
+SWI -;SRG Web Only
+SWI srf1;SRG Web Only
+SWI srf2;SRG Web Only
+SWI undefined;SRG Web Only
